@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 245,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Samsung Elec to invest over $5 bln as it targets net zero emissions by 2050 - Reuters",
+    "description": "Samsung Electronics <a href=\"https://www.reuters.com/companies/005930.KS\" target=\"_blank\">(005930.KS)</a> will invest over 7 trillion won ($5.02 billion) by 2030 as part of sweeping environmental initiatives aimed at making the company carbon neutral by 2050,…",
+    "url": "https://www.reuters.com/business/sustainable-business/samsung-elec-invest-over-5-bln-it-targets-net-zero-emissions-by-2050-2022-09-15/",
+    "urlToImage": "https://www.reuters.com/resizer/cAwOyPdoYbxEh9nkkjo3zAAOVmY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UR5RNKTDGRISFINFG7CZ7P4POY.jpg",
+    "publishedAt": "2022-09-15T02:06:00Z",
+    "content": "SEOUL, Sept 15 (Reuters) - Samsung Electronics (005930.KS) will invest over 7 trillion won ($5.02 billion) by 2030 as part of sweeping environmental initiatives aimed at making the company carbon neu… [+3567 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Corinne Reichert",
+    "title": "iOS 16.0.1 Reportedly Fixes iPhone 14 Issues - CNET",
+    "description": "iPhone 14 users will reportedly be prompted to set up their new phones with iOS 16.0.",
+    "url": "https://www.cnet.com/tech/services-and-software/ios-16-0-1-reportedly-fixes-iphone-14-issues/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/fcaebb2a634c514531420e7001cc49e9f021a951/hub/2022/09/14/932ad700-1d9b-4d8c-b672-6f3043aa02a5/apple-iphone-14-xx-8083-4.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2022-09-15T03:38:12Z",
+    "content": "Apple has already issued an update for iOS 16 designed to patch several issues for the iPhone 14 and iPhone 14 Pro, 9to5Mac has reported.\r\nHere are the full iOS 16.0.1 release notes according to 9to5… [+703 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Apple’s website is currently down following App Store outages",
+    "description": "Apple’s official website is currently down, and this time it’s not about a new product launch. This follows an outage that affected App Store services earlier this week just after iOS 16 was released to the public. Apple’s website is down At first, Apple’s ma…",
+    "url": "https://9to5mac.com/2022/09/14/apple-website-currently-down/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/09/Apple-website-down.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2022-09-15T03:12:11Z",
+    "content": "Apple’s official website is currently down, and this time it’s not about a new product launch. This follows an outage that affected App Store services earlier this week just after iOS 16 was released… [+1366 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Autoblog"
+    },
+    "author": "Zac Palmer",
+    "title": "2024 Ford Mustang revealed at Detroit Auto Show with big redesign",
+    "description": "Filed under:\n Detroit Auto Show,Ford,Technology,Convertible,Coupe,Performance\n Continue reading 2024 Ford Mustang revealed at Detroit Auto Show with big redesign\n2024 Ford Mustang revealed at Detroit Auto Show with big redesign originally appeared on Autoblog…",
+    "url": "https://www.autoblog.com/2022/09/14/2024-ford-mustang-revealed-detroit-auto-show/",
+    "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/09/14100701/2024-Mustang-121.jpg",
+    "publishedAt": "2022-09-15T00:15:00Z",
+    "content": "Say hello to the 2024 Ford Mustang. Dodge may have just put the pin in its V8-powered muscle cars, but Ford is far from done selling its fire-breathing coupe as the Mustang enters its seventh generat… [+7891 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "Apple's homepage is experiencing partial outages",
+    "description": "Apple's website is currently experiencing issues and partial outages, causing the site to load incorrectly for many users.On Wednesday evening, the Apple website began experiencing intermittent outages. Most notably, images did not load, and instead, the webs…",
+    "url": "https://appleinsider.com/articles/22/09/15/apples-homepage-is-experiencing-partial-outages",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/50401-99053-appledown-xl.jpg",
+    "publishedAt": "2022-09-15T04:19:25Z",
+    "content": "AppleInsider is supported by its audience and may earn commission as an Amazon Associate and affiliate partner on qualifying purchases. These affiliate partnerships do not influence our editorial con… [+842 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "karefree2@yahoo.com (Karen S Freeman)",
+    "title": "Does Apple Watch Ultra fit older cases?",
+    "description": "The Apple Watch Ultra is substantially different from every Apple Watch that's come before. But will you need a new case?",
+    "url": "https://www.imore.com/health-fitness/apple-watch/does-apple-watch-ultra-fit-older-cases",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/8sJ4Q8WdTEH8qQDFNDeH8i-1200-80.jpg",
+    "publishedAt": "2022-09-15T01:50:52Z",
+    "content": "Does Apple Watch Ultra fit older cases?\r\nBest Answer: No, it doesn't. The Apple Watch Ultra has a completely different size and shape than any other Apple Watch model. No other case will fit properly… [+1267 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "karefree2@yahoo.com (Karen S Freeman)",
+    "title": "Can Apple Watch SE 2 use my old bands?",
+    "description": "You're in luck, Apple SE 2 will fit older bands, as long as you keep to the same watch size. Here's what you need to know to make sure your older bands will still work.",
+    "url": "https://www.imore.com/health-fitness/apple-watch/can-apple-watch-se-2-use-my-old-bands",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/rkeMK9R6FAagUsQS8EGpx3-1200-80.jpg",
+    "publishedAt": "2022-09-15T01:55:07Z",
+    "content": "Can Apple Watch SE 2 use my old bands?\r\nBest answer: Yes, as long as you stick to the same watch size. Bands for the original 40mm Apple Watch SE will fit the 40mm Apple Watch SE 2, while bands for t… [+1776 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "/FILM"
+    },
+    "author": "Jenna Busch",
+    "title": "Shantaram Trailer: Charlie Hunnam Finds Redemption In This Adaptation Of The Popular Novel",
+    "description": "Apple TV+ has released a trailer for their upcoming series \"Shantaram,\" based on the 2003 international bestselling novel of the same name by Gregory David Roberts. \"Shantaram\" stars Charlie Hunnam (\"Sons of Anarchy,\" \"King Arthur: Legend of the Sword\"), who …",
+    "url": "https://www.slashfilm.com/1009021/shantaram-trailer-charlie-hunnam-finds-redemption-in-this-adaptation-of-the-popular-novel/",
+    "urlToImage": "https://www.slashfilm.com/img/gallery/shantaram-trailer-charlie-hunnam-finds-redemption-in-this-adaptation-of-the-popular-novel/l-intro-1663210284.jpg",
+    "publishedAt": "2022-09-15T02:53:26Z",
+    "content": "The story was set to become a film shortly after the book's publication and went through several iterations. Names like Russell Crowe, Johnny Depp, and Joel Edgerton have been attached, as well as di… [+1276 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Promotes Benefits of Using iPhone 14 With eSIM While Traveling Abroad",
+    "description": "Amid criticism from some customers regarding the removal of the SIM card tray on all iPhone 14 models sold in the United States, Apple today published a new support document outlining various \"options and benefits\" for using eSIM while traveling abroad.\n\n\n\n\n\n…",
+    "url": "https://www.macrumors.com/2022/09/14/apple-promotes-esim-benefits-for-iphone/",
+    "urlToImage": "https://images.macrumors.com/t/UukjrLULqhO9yeCMQCM-AYcVMfs=/1920x/article-new/2022/09/iphone-14-iphone-14-plus-in-hand.jpg",
+    "publishedAt": "2022-09-15T02:39:35Z",
+    "content": "Amid criticism from some customers regarding the removal of the SIM card tray on all iPhone 14 models sold in the United States, Apple today published a new support document outlining various \"option… [+2093 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ifanr.com"
+    },
+    "author": "何, 嘉昕",
+    "title": "早报｜爱范儿 iPhone14 首发体验/提前激活 iPhone 14 每台罚款 20 万/《羊了个羊》否认抄袭",
+    "description": "为什么要关注星巴克的 Web3 试验？\n漫威将推超级英雄 AR 游戏#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。\n爱范儿 |\n原文链接 ·\n查看评论 ·\n新浪微博",
+    "url": "https://www.ifanr.com/1512189",
+    "urlToImage": "https://s3.ifanr.com/wp-content/uploads/2022/09/1-3.jpeg",
+    "publishedAt": "2022-09-15T00:21:12Z",
+    "content": "<ul><li> iPhone 14 20 </li><li></li><li> 20 2000</li><li>B </li><li></li><li></li><li>Google 2022 Google </li><li> Web3 </li><li>iPhone 15 3nm </li><li></li><li>Sonos Sub mini</li><li>On Onward</li><… [+1077 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cnbeta.com"
+    },
+    "author": "study875",
+    "title": "[视频]iOS 16.1 Beta新特性：优化锁屏设置 新增Matter面板",
+    "description": "在重磅更新 iOS 16 发布之后，苹果并未就此停歇，仅仅时隔 2 天就推出了 iOS 16.1 开发者预览版。本次更新重点增强了 iOS 16 系统中引入的诸多功能，改进了锁屏、Matter 等。 阅读全文",
+    "url": "https://www.cnbeta.com/articles/tech/1316453.htm",
+    "urlToImage": "https://static.cnbetacdn.com/article/2022/0915/c0165e94751f748.webp",
+    "publishedAt": "2022-09-15T03:30:40Z",
+    "content": "iOS 16 Widget iOS 16.1 \r\n Focus Focus Focus iOS 16.0 \r\n Matter Apple Matter Matter \r\n iOS 16 Clean Energy Charging iOS 16.1 \r\niPhone XRiPhone 11iPhone 12 mini iPhone 13 mini \r\nShared iCloud Photo Lib… [+53 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Truth About Cars"
+    },
+    "author": "Tim Healey",
+    "title": "2024 Ford Mustang - An Evolved Pony [UPDATED]",
+    "description": "DETROIT -- The 2024 Ford Mustang arrives early next summer, but Ford isn't waiting for next year to take the wraps off.In an attempt to own the 2022 North Am...",
+    "url": "https://www.thetruthaboutcars.com/cars/news-blog/2024-ford-mustang-an-evolved-pony-44496927",
+    "urlToImage": "https://cdn-fastly.thetruthaboutcars.com/media/2022/09/14/16161/2024-ford-mustang-an-evolved-pony.jpg?size=1200x628",
+    "publishedAt": "2022-09-15T03:35:00Z",
+    "content": "DETROIT -- The 2024 Ford Mustang arrives early next summer, but Ford isnt waiting for next year to take the wraps off.\r\nIn an attempt to own the 2022 North American International Auto Show/Detroit Au… [+9983 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Itmedia.co.jp"
+    },
+    "author": "ITmedia",
+    "title": "AppleのWebサイトが世界中でダウン　「珍しい」という声も",
+    "description": "米AppleのWebサイトが9月15日のお昼ごろからアクセスできなくなっている。日本以外のサイトもダウンしており、編集部で確認したところ米国、英国、フランス、インド、韓国などでもサイトが正常に表示できない事態となっている。",
+    "url": "https://www.itmedia.co.jp/news/articles/2209/15/news138.html",
+    "urlToImage": "https://image.itmedia.co.jp/news/articles/2209/15/cover_news138.jpg",
+    "publishedAt": "2022-09-15T04:20:00Z",
+    "content": "AppleWeb915\r\nApple\r\nTwitterAppleAppleApple\r\nWebApp StoreiPhone 1416\r\n915 200\r\nApple150\r\nCopyright © ITmedia, Inc. All Rights Reserved.\r\nIDITmedia NEWS"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Impress.co.jp"
+    },
+    "author": null,
+    "title": "アンカーが計8製品を発表、iPhone 14向けをうたう最大30W充電器など",
+    "description": "アンカー・ジャパン（Anker）は15日、同社史上最小サイズをうたう充電器「Anker 511 Charger（Nano 3, 30W）」など計8製品を発表した。8製品のうち6製品は本日15日に発売され、2製品は今秋発売される。",
+    "url": "https://k-tai.watch.impress.co.jp/docs/news/1440189.html",
+    "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1440/189/tiler.jpg",
+    "publishedAt": "2022-09-15T03:23:45Z",
+    "content": "Anker15Anker 511 ChargerNano 3, 30W886152 \r\nAnker 511 ChargerNano 3, 30W\r\n Anker 511 ChargerNano 3, 30W36×29×29mm40g \r\n 30WiPhone 149153490 \r\nAnker 541 USB-C &amp; 0.9m/1.8m\r\n Anker 541 USB-C &amp; 0… [+486 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Appbank.net"
+    },
+    "author": "岩佐",
+    "title": "iPhone 14 Pro Maxが「バッテリー駆動時間」でAndroidに圧勝できた訳",
+    "description": "Appleから発表された「iPhone 14 Pro Max」のバッテリー駆動時間を、テック系メディア「Tom’s Guide」がテストしています。 *Category：テクノロジー Technology｜* […]",
+    "url": "https://www.appbank.net/2022/09/15/technology/2296451.php",
+    "urlToImage": "https://www.appbank.net/wp-content/uploads/2022/09/2022-0915-iPhone-14-thumb-1.jpeg",
+    "publishedAt": "2022-09-15T02:32:50Z",
+    "content": "AppleiPhone 14 Pro MaxTom’s Guide\r\n*Category\r\n Technology*SourceTom’s Guide ,MacRumors\r\nTom’s Guide\r\niPhone 14 Pro Max11442iPhone 13 Pro Max12162\r\niPhone 14 Pro Max530%Tom’s Guide\r\niPhone 14 Pro Max(… [+344 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Techinsider.ru"
+    },
+    "author": "Никита Шевцев",
+    "title": "Процессор Apple A17 может перейти на 3 нм-техпроцесс. Вот у каких моделей появится этот «монстр»",
+    "description": "На флагманской линейке iPhone 14 сейчас установлены процессоры A15 Bionic и A16 Bionic. Однако компания уже работает над совершенно новым чипом.",
+    "url": "https://www.techinsider.ru/gadgets/news-1556427-processor-apple-a17-mozhet-pereyti-na-3-nm-tehprocess-vot-u-kakih-modeley-poyavitsya-etot-monstr/",
+    "urlToImage": "https://images.techinsider.ru/upload/img_cache/891/891e36af018050a5f6510364d61156a0_ce_720x480x0x0_cropped_720x377.jpg",
+    "publishedAt": "2022-09-15T04:48:00Z",
+    "content": "Nikkei Asia, Apple    3-  TSMC   A17 Bionic.  Apple   A, , ,   Pro iPhone 15,  .\r\n  3-   N3   , , N3E,   2023 .\r\n TSMC, ,   N3E, ,   .  , N3E TSMC  A17 Bionic,     M3,   Mac . , iPad   M3,  ,   .\r\nAp… [+83 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ascii.jp"
+    },
+    "author": "ASCII",
+    "title": "登場から7年、Apple Watchはクック氏の戦略通りに健康に関心を持つ新しいユーザー層を獲得した",
+    "description": "9月といえば新型iPhone。既報のとおりに、アップルは7日（現地時間）にiPhone 14シリーズを発表したが、個人的に気になっていたのは「Apple Watch」だった。すでに8世代目、主役ではないにせよ、影の主役と言ってもいい存在になっているように見える。",
+    "url": "https://weekly.ascii.jp/elem/000/004/105/4105591/",
+    "urlToImage": "https://ascii.jp/img/2022/09/15/3419361/l/7d0416687b7684f9.jpg",
+    "publishedAt": "2022-09-15T03:00:00Z",
+    "content": "9iPhone7iPhone 14Apple Watch8\r\niPhoneApple WatchApple Watch\r\nApple Watch\r\nApple Watch Series 8\r\nApple WatchiPhoneApple Watch\r\nApple WatchApple Watch\r\niPhoneApple WatchiPhoneApple Watch\r\nApple Watch7\r… [+94 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ascii.jp"
+    },
+    "author": "ASCII",
+    "title": "『幻塔』はiPhone 13 Proなら最高画質で60fps動作！フレームレート計測で動作をチェック",
+    "description": "スマホゲームは、スマホの性能によって動作が異なる。そこで、本連載では新しいスマホと、古いスマホを使って性能を比較する。今回は最新のオープンワールドアクションRPGで注目を集めた『幻塔』で計測した。",
+    "url": "https://weekly.ascii.jp/elem/000/004/105/4105570/",
+    "urlToImage": "https://ascii.jp/img/2022/09/14/3419239/l/6f53f4e229234073.jpg",
+    "publishedAt": "2022-09-15T02:00:00Z",
+    "content": "PlayStation 4/5Nintendo Switch\r\nPC\r\nPC\r\nAppleiPhoneiPhone 13 Pro2015iPhone 6s\r\niPhone 13 ProiPhone 6s\r\n<table><tr><th></th></tr><tr><th></th><td>iPhone 13 Pro</td><td>iPhone 6s</td></tr><tr><th></th>… [+377 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ascii.jp"
+    },
+    "author": "ASCII",
+    "title": "Anker、iPhone 14対応の急速充電器や植物由来素材のケーブルなど8製品を発表",
+    "description": "「Anker 511 Charger（Nano 3,30W）」など、iPhone 14シリーズ向けのUSB急速充電器、ケーブル、電源タップ、モバイルバッテリー全8製品を発表した。",
+    "url": "https://weekly.ascii.jp/elem/000/004/105/4105196/",
+    "urlToImage": "https://ascii.jp/img/2022/09/12/3417874/l/cc65626e6047d56d.jpg",
+    "publishedAt": "2022-09-15T02:00:00Z",
+    "content": "Anker 511 ChargerNano 3,30W\r\n915Anker 511 ChargerNano 3,30WiPhone 14USB8Anker 511 ChargerNano3, 30W6\r\nAnker 511 ChargerNano 3, 30WUSBAnker3cm\r\nUSB Type-C30WUSB Power DeliverAnkerPowerIQ 3.0Gen2iPhone… [+647 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Olhardigital.com.br"
+    },
+    "author": "William Schendes",
+    "title": "Patreon demite 17% de seu quadro de funcionários",
+    "description": "Para cortar gastos, a plataforma de doações online, Patreon, demitiu 80 funcionários, o equivalente a 17% do número total de colaboradores da empresa.\nO post Patreon demite 17% de seu quadro de funcionários apareceu primeiro em Olhar Digital.",
+    "url": "https://olhardigital.com.br/2022/09/14/pro/patreon-demite-17-do-quadro-de-funcionarios/",
+    "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/09/shutterstock_2069648078.jpg",
+    "publishedAt": "2022-09-15T01:00:00Z",
+    "content": "Para cortar gastos, a plataforma de doaÃ§Ãµes online Patreon, demitiu 80 funcionÃ¡rios, o equivalente a 17% do nÃºmero total de colaboradores da empresa.\r\nEm uma publicaÃ§Ã£o no blog da empresa, o CE… [+1753 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "3dnews.ru"
+    },
+    "author": null,
+    "title": "Предзаказы в России на новые iPhone в разы превышают прошлогодний уровень",
+    "description": "Российские ретейлеры сообщают о повышенном спросе на новые модели смартфонов iPhone, продажи которых в стране компания Apple прекратила весной. В частности, в МТС сообщили «Коммерсанту», что за первую неделю оформили предзаказ на новинки в 2,5 раза больше рос…",
+    "url": "https://3dnews.ru/1074218/publikatsiya-1074218",
+    "urlToImage": "https://3dnews.ru/assets/external/illustrations/2022/09/15/1074218/1.png",
+    "publishedAt": "2022-09-15T04:35:00Z",
+    "content": "iPhone, Apple . , «», 2,5 , .\r\n: Apple\r\n, iPhone Pro Pro Max ( 70 % ), iPhone 14 128 .\r\n Apple «.-», «» iPhone . «» , iPhone 14 Pro Max, 21 % , iPhone 14 Pro, , iPhone 14. iPhone 14 Plus.\r\nApple , iP… [+109 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "muniuteinl@gmail.com (Mikeknowsme), Mikeknowsme",
+    "title": "Apple Store ở Thái và Sing không có xếp hàng chờ mua offline iPhone 14 series (16/09)",
+    "description": "Mình vừa có mặt ở Apple Store Central World ở Thái Lan thì nhân viên cho rằng sẽ không có xếp hàng chờ mua trực tiếp iPhone 14 series cho ngày mai (16/09). Ngày mai chỉ mở bán giao hàng cho những anh em đã đặt trước thôi.",
+    "url": "https://tinhte.vn/thread/apple-store-o-thai-va-sing-khong-co-xep-hang-cho-mua-offline-iphone-14-series-16-09.3565479/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/09/6125553_cover_Applestore_iconsiam.jpg",
+    "publishedAt": "2022-09-15T03:41:23Z",
+    "content": "Mình va có mt Apple Store Central World Thái Lan thì nhân viên cho rng s không có xp hàng ch mua trc tip iPhone 14 series cho ngày mai (16/09). Ngày mai ch m bán giao hàng cho nhng anh em ã t trc thô… [+912 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "ndminhduc.tt@gmail.com (Mon Coeur), Mon Coeur",
+    "title": "Tổng hợp review về iPhone 14 Pro và Pro Max: nâng cấp sáng tạo nhưng vẫn phải chờ tối ưu",
+    "description": "Trước ngày mở bán iPhone 14 Pro và 14 Pro Max một ngày, các trang tin công nghệ trên khắp thế giới đã đưa ra hàng loạt các đánh giá và nhận định về iPhone 14 Pro và 14 Pro Max. Tổng hợp lại thì họ đều cho rằng các nâng cấp của Apple là sáng tạo…",
+    "url": "https://tinhte.vn/thread/tong-hop-review-ve-iphone-14-pro-va-pro-max-nang-cap-sang-tao-nhung-van-phai-cho-toi-uu.3565444/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/09/6125519_6117595_cover_14_pro.jpg",
+    "publishedAt": "2022-09-15T04:05:19Z",
+    "content": "góc nào ó, ây là mt trong nhng nâng cp ln ca iPhone 14 Pro so vi 13 Pro, ít nht là v mt lý thuyt vi cm bin 48MP ln hn, kh nng gom im nh. Dù vy thc t thì s khác bit gn nh không th thy c trong nhiu môi… [+850 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Sspai.com"
+    },
+    "author": "KeNNY",
+    "title": "握好手柄，看住钱包：任天堂、索尼 9 月发布会资讯汇总",
+    "description": "从《旷野之息》续作到《人中之龙》系列三连发，汇总近期任天堂、索尼发布会中那些「高光时刻」。查看全文",
+    "url": "https://sspai.com/post/75727",
+    "urlToImage": "https://cdn.sspai.com/article/0db9998a-285e-ae7f-8710-17227aedcf5d.jpg",
+    "publishedAt": "2022-09-15T03:30:00Z",
+    "content": "9 \r\n 9 13 State of Play 14 14 \r\n2023 5 12 Nintendo Switch\r\n2019 E3 2021 E3 2022 2023 \r\nLogo \r\nENGAGE\r\nENGAGE 2023 1 20 15GB 429 \r\nENGAGE\r\nEngage\r\n Wii Switch\r\n30 Wii\r\n4 \r\n2023 2 24 Switch 429 \r\n 4 20… [+1567 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "vn_ninja@yahoo.com (vn_ninja), vn_ninja",
+    "title": "iOS 16 có một tính năng có thể anh em chưa biết: “Clean Energy Charging” hay “Sạc Năng lượng sạch”",
+    "description": "Apple đã chính thức tung ra iOS 16 vào thứ 2 vừa qua. Trong thông cáo báo chí về iOS 16 mới được Apple chia sẻ thì ngoài các tính năng mà chúng ta đã nghe nhiều như màn hình khoá mới, các tính năng mới cho app Messages, tách chủ thể trên ảnh…",
+    "url": "https://tinhte.vn/thread/ios-16-co-mot-tinh-nang-co-the-anh-em-chua-biet-clean-energy-charging-hay-sac-nang-luong-sach.3565352/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/09/6125123_cover_Clean_Energy_Charging_tinhte.jpg",
+    "publishedAt": "2022-09-15T00:55:44Z",
+    "content": "C th, iOS 16 có mt quy trình daemon mi (mt quy trình chy trong nn) nhm thu thp d liu phát thi carbon t các c quan qun lý nng lng a phng nh C quan Qun lý Thông tin Nng lng M (US EIA) da trên v trí ca … [+790 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tinhte.vn"
+    },
+    "author": "ndminhduc.tt@gmail.com (Mon Coeur), Mon Coeur",
+    "title": "Thế giới đánh giá về iPhone 14 Pro và Pro Max: nâng cấp sáng tạo nhưng vẫn phải chờ tối ưu",
+    "description": "Trước ngày mở bán iPhone 14 Pro và 14 Pro Max một ngày, các trang tin công nghệ trên khắp thế giới đã đưa ra hàng loạt các đánh giá và nhận định về iPhone 14 Pro và 14 Pro Max. Tổng hợp lại thì họ đều cho rằng các nâng cấp của Apple là sáng tạo…",
+    "url": "https://tinhte.vn/thread/the-gioi-danh-gia-ve-iphone-14-pro-va-pro-max-nang-cap-sang-tao-nhung-van-phai-cho-toi-uu.3565444/",
+    "urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2022/09/6125519_6117595_cover_14_pro.jpg",
+    "publishedAt": "2022-09-15T02:12:50Z",
+    "content": "góc nào ó, ây là mt trong nhng nâng cp ln ca iPhone 14 Pro so vi 13 Pro, ít nht là v mt lý thuyt vi cm bin 48MP ln hn, kh nng gom im nh. Dù vy thc t thì s khác bit gn nh không th thy c trong nhiu môi… [+850 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Spidersweb.pl"
+    },
+    "author": "maciej.gajewski@spidersweb.pl (Maciej Gajewski)",
+    "title": "Chcesz kupić telewizor z HDR? Lepiej to przeczytaj",
+    "description": "Wygląda na to, że rywalizację o standard przyszłości dla filmów w HDR wygrało Dolby i jego Dolby Vision. Ostatni z promujących alternatywny format HDR10+ dostawców treści już dopuścił się zdrady i miksuje swoje seriale w konkurencyjnym formacie. To oznacza, ż…",
+    "url": "https://spidersweb.pl/2022/09/telewizor-hdr10-dolby-vision.html",
+    "urlToImage": "https://ocs-pl.oktawave.com/v1/AUTH_2887234e-384a-4873-8bc5-405211db13a2/spidersweb/2020/11/tcl-telewizory-soundbary-dolby-vision-atmos.jpg",
+    "publishedAt": "2022-09-15T04:45:00Z",
+    "content": "Nie. Twórcy treci nadal musz je tworzy w taki sposób, by te prezentoway si atrakcyjnie dla oka u jak najwikszej liczby widzów. Nie ma na dzi materiau wideo w usugach VOD, który prezentowaby si piknie… [+413 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "SA Transcripts",
+    "title": "T-Mobile US, Inc. (TMUS) CEO Mike Sievert Presents at Goldman Sachs 2022 Communacopia + Technology Conference (Transcript)",
+    "description": "T-Mobile US, Inc. (NASDAQ:NASDAQ:TMUS) Goldman Sachs 2022 Communacopia + Technology Conference September 14, 2022 6:00 PM ETCompany ParticipantsBrett Feldman - Goldman SachsConference Call...",
+    "url": "https://seekingalpha.com/article/4541093-t-mobile-us-inc-tmus-ceo-mike-sievert-presents-goldman-sachs-2022-communacopia-technology",
+    "urlToImage": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+    "publishedAt": "2022-09-15T03:17:05Z",
+    "content": "T-Mobile US, Inc. (NASDAQ:TMUS) Goldman Sachs 2022 Communacopia + Technology Conference September 14, 2022 6:00 PM ET\r\n Company Participants\r\n Brett Feldman - Goldman Sachs\r\n Conference Call Particip… [+40814 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Seeking Alpha"
+    },
+    "author": "Jay Capital",
+    "title": "iQIYI: Key Player In China's OTT Industry With Significant Upside",
+    "description": "iQIYI's simple business model rides on a long-term tailwind of increased consumer income and preference for on-demand content. See why I'm bullish on IQ stock.",
+    "url": "https://seekingalpha.com/article/4541076-iqiyi-key-player-in-chinas-ott-industry-with-significant-upside",
+    "urlToImage": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/939690180/image_939690180.jpg?io=getty-c-w750",
+    "publishedAt": "2022-09-15T01:29:03Z",
+    "content": "Spencer Platt\r\nOverview\r\n iQIYI (NASDAQ:NASDAQ:IQ) is currently significantly undervalued. I believe that IQ's true value will be realized as it continues to gain subscribers in a growing market and … [+10412 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Apple、｢iPhone 14｣シリーズ向けに｢iOS 16.0.1｣をリリース − 各種問題を修正",
+    "description": "9To5Macによると、Appleが、「iPhone 14」シリーズ向けに「iOS 16.0.1」をリリースしていることが分かりました。 「iPhone 14」シリーズには「iOS 16.0 (build 20A362) ...",
+    "url": "https://taisy0.com/2022/09/15/162092.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2022/09/th_Apple-iPhone14Series2.jpg",
+    "publishedAt": "2022-09-15T00:06:04Z",
+    "content": "9To5MacAppleiPhone 14iOS 16.0.1\r\niPhone 14iOS 16.0 (build 20A362)iOS 16.0.1 (build 20A371)\r\niOS 16.0.1iPhone 14iPhone 14 ProiPhone14 Pro Max"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "Appleの整備済み商品情報 2022/9/15",
+    "description": "本日、Appleのお得な整備済み製品が多数追加されていますので、良かったらどうぞ。 整備済み商品とは初期不良などがあった商品をAppleが修理し、販売している商品で1年間の保証付きなので新品と変わらず、安く購入でき、現在 ...",
+    "url": "https://taisy0.com/2022/09/15/162110.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2022/03/applestoreicon2022.jpg",
+    "publishedAt": "2022-09-15T02:52:23Z",
+    "content": "Apple\r\nApple1()\r\nMacBook Pro 13 8CPU8GPU126,280MacBook Pro 13 8CPU8GPU144,980MacBook Pro 13 8CPU8GPU163,680MacBook Pro 13 8CPU8GPU182,380MacBook Pro 13 2.0GHz Core i5192,800MacBook Pro 13 2.0GHz Core… [+2046 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Taisy0.com"
+    },
+    "author": "taisy0",
+    "title": "｢iOS 16｣の普及ペースは｢iOS 15｣よりも良さそう",
+    "description": "先日、Appleが「iOS 16」を正式にリリースしましたが、調査会社であるMixpanelが収集しているデータによると、「iOS 16」の普及ペースは「iOS 15」よりも僅かに良くなっていることが分かりました。 「i ...",
+    "url": "https://taisy0.com/2022/09/15/162094.html",
+    "urlToImage": "https://taisy0.com/wp-content/uploads/2022/06/ios16ss.jpg",
+    "publishedAt": "2022-09-15T00:25:12Z",
+    "content": "AppleiOS 16MixpaneliOS 16iOS 15\r\niOS 16246.71%iOS 156.48%\r\n1iOS 149.22%iOS 14iOS 15\r\n2914iOS 1611.89%iOS 1578.35iOS 149.76%iOS 158.63%iOS 1414.68%iOS 16iOS 14iOS 15\r\nvia MacRumors"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Codezine.jp"
+    },
+    "author": null,
+    "title": "開発の定番「VSCode」とは？ インストールから使い方までを解説",
+    "description": "連載初回は、Visual Studio Codeのあらましを紹介し、macOSとWindowsを例にしてダウンロードとインストールを行います。日本語化を施したあと、画面構成の簡単な紹介を行い、HTMLファイルを作成する／開く／編集する／保存する／閉じるという一連の流れで基本的な使い方を紹介します。",
+    "url": "https://codezine.jp/article/detail/16467",
+    "urlToImage": "https://codezine.jp/static/images/article/16467/16467_ogp.png",
+    "publishedAt": "2022-09-15T02:00:00Z",
+    "content": "MicrosoftVisual Studio CodeVSCode2015VSCodeVSCode\r\n<ul><li></li><li>\r\n Visual Studio\r\n </li><li>\r\n Visual Sudio Code\r\n </li></ul>\r\n<ul><li>\r\n macOS Monterey\r\n <ul><li>\r\n Visual Studio Code 1.69\r\n </l… [+1244 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Apple Watchの整備済製品 Apple Watch Series 7/SE 値下げ（2022/9/15）",
+    "description": "<!-- テキスト -->\n\nApple.com/jpが、Apple認定の整備済製品で、Apple Watch整備済製品の販売を開始しています。\n\n30,000円以上購入でオリコApple ショッピングローンが24回払いまで金利０%で利用出来ます。\n\nペイディあと払いプランApple専用は利用できません。\n\n整備品情報はメールマガジンでもお知らせしています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n<ul>\n<li>…",
+    "url": "https://www.macotakara.jp/sale/entry-43504.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202005/af682cfe6575839572ce3f5c2d234a5888555bcb6df5740d62d10c111262031d.png",
+    "publishedAt": "2022-09-15T03:19:07Z",
+    "content": "<ul><li>Apple Watch Series 7GPS+Cellular- 41mm57,60061,800</li><li>Apple Watch Series 7GPS+Cellular- 45mm61,90064,800</li><li>Apple Watch Series 7GPS+Cellular- 45mm84,80088,800</li><li>Apple Watch Ni… [+361 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "watchOS 9：Apple Watch Series 7/8で日本語キーボードが利用可能に",
+    "description": "watchOS 9：日本語キーボード\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\nwatchOS 9から、Apple Watch Series 7、Apple Watch Series 8で、QWERTYキーボード使用時に日本語が利用可能になっています。",
+    "url": "https://www.macotakara.jp/WatchOS/entry-43503.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/202209/471fee8a6f9b04b5.png",
+    "publishedAt": "2022-09-15T02:05:40Z",
+    "content": "watchOS 9\r\nwatchOS 9Apple Watch Series 7Apple Watch Series 8QWERTY\r\nwatchOS 9"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "iPadの整備済商品 商品追加（2022/9/15）",
+    "description": "<!-- テキスト -->\n\nApple.com/jpが、Apple認定の整備済製品で、iPad整備済製品を追加しています。\n\n30,000円以上購入でオリコApple ショッピングローンが24回払いまで金利０%で利用出来ます。\n\nペイディあと払いプランApple専用は利用できません。\n\n整備品情報はメールマガジンでもお知らせしています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n<ul>\n<li>iPad Pro …",
+    "url": "https://www.macotakara.jp/sale/entry-43506.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/201611/f0980974abc4948274fd155e27880515dceeda85cf9beaefd181cb563f19e3d9.jpg",
+    "publishedAt": "2022-09-15T03:22:13Z",
+    "content": "Apple.com/jpAppleiPad\r\n30,000Apple 24%\r\nApple\r\n<ul><li>iPad Pro 12.9-inch (4th generation) with Wi-Fi + Cellular/1TB182,800</li><li>iPad Pro 12.9-inch (4th generation) with Wi-Fi + Cellular/512GB158,… [+1537 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Macotakara.jp"
+    },
+    "author": "danbo",
+    "title": "Macの整備済商品 商品追加（2022/9/15）",
+    "description": "<!-- テキスト -->\n\nApple.com/jpが、Apple認定の整備済製品で、Mac整備済み製品として、商品の追加を行っています。\n\n30,000円以上購入でオリコApple ショッピングローンが24回払いまで金利０%で利用出来ます。\n\nペイディあと払いプランApple専用は利用できません。\n\n整備品情報はメールマガジンでもお知らせしています。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!-- テキスト -->\n\n<ul>\n<li>Mac…",
+    "url": "https://www.macotakara.jp/sale/entry-43505.html",
+    "urlToImage": "https://www.macotakara.jp/archives/001/201611/9cd6c757e50c2bbf16791b1020e29d0b5b4a93a153af99ecce3983c5a770d709.jpg",
+    "publishedAt": "2022-09-15T03:20:37Z",
+    "content": "Apple.com/jpAppleMac\r\n30,000Apple 24%\r\nApple\r\n<ul><li>Mac mini (M1, 2020)/M1/8GB/512GBSSD94,800</li><li>Mac mini (2018)/3.2GHz Core i7/32GBRAM/2TBSSD/Intel UHD Graphics 630/10Ethernet287,800</li><li>… [+5067 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Bitcoin Magazine"
+    },
+    "author": "Patrick McCaughey",
+    "title": "Phish Lot, Rural America And The Lightning Revolution",
+    "description": "Bitcoin and Lightning are technologies that once again revolutionize human connections and the ability to share information.",
+    "url": "https://bitcoinmagazine.com/culture/phish-lot-rural-america-and-lightning",
+    "urlToImage": "https://bitcoinmagazine.com/.image/t_share/MTgzMjM5NTgzMDQyMjUwMTQ2/img_6214.png",
+    "publishedAt": "2022-09-15T00:00:00Z",
+    "content": "This is an opinion editorial by Patrick McCaughey, a live music aficionado, Bitcoin advocate and pragmatist living in western Massachusetts.\r\nHumans are innately social creatures. We enjoy meals toge… [+17805 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gori.me"
+    },
+    "author": "g.O.R.i",
+    "title": "Apple公式サイト、世界的にサーバーダウン。接続できず",
+    "description": "Apple公式サイトが世界的にダウンしている。各国のトップページがアクセスできないまたは表示が大幅に崩れてしまっている。 日本の公式サイトでは、記事執筆時点で404エラーが表示されている。 Not Found The requested URL was not found on this serve…\nThe post Apple公式サイト、世界的にサーバーダウン。接続できず first appeared on ゴリミー. 【もっと読む】",
+    "url": "https://gori.me/apple/apple-news/143938",
+    "urlToImage": "https://gori.me/uploads/2022/09/Apple-Store-id-down-800x460.jpg",
+    "publishedAt": "2022-09-15T04:32:30Z",
+    "content": "Not FoundThe requested URL was not found on this server.\r\nAdditionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vanity Fair"
+    },
+    "author": "Chris Murphy",
+    "title": "Matthew McConaughey Soccer Movie Scrapped by Studio Weeks Before Filming",
+    "description": "Skydance has pulled the plug on 'Dallas Sting' after receiving “disturbing allegations” surrounding aspects of the true story.",
+    "url": "https://www.vanityfair.com/hollywood/2022/09/matthew-mcconaughey-soccer-movie-abruptly-scrapped-by-studio-weeks-before-filming",
+    "urlToImage": "https://media.vanityfair.com/photos/632272a609f6acbba8ee6b0c/16:9/w_1280,c_limit/1358705604",
+    "publishedAt": "2022-09-15T00:53:30Z",
+    "content": "Skydance has given a red card to Matthew McConaughey's forthcoming feature film. The production company has pulled the plug on Dallas Sting, a feature film starring McConaughey as a woman's soccer co… [+1957 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iphone-ticker.de › iPhone-News seit 2007"
+    },
+    "author": "Nicolas",
+    "title": "watchOS 9: Spotify warnt vor Aktualisierung",
+    "description": "Der Musik-Streaming-Dienst Spotify hat seine Anwender dazu aufgerufen die seit Montag verfügbare Apple Watch-Aktualisierung auf watchOS 9 noch nicht einzuspielen. Kein LTE-Streaming möglich Das neue System-Update Apples würde einen Software-Bug einführen, der…",
+    "url": "https://www.iphone-ticker.de/watchos-9-spotify-warnt-vor-aktualisierung-198508/",
+    "urlToImage": "https://images.iphone-ticker.de/wp-content/uploads/2020/11/spotify-streaming-feature.jpg",
+    "publishedAt": "2022-09-15T05:00:36Z",
+    "content": "Der Musik-Streaming-Dienst Spotify hat seine Anwender dazu aufgerufen die seit Montag verfügbare Apple Watch-Aktualisierung auf watchOS 9 noch nicht einzuspielen.\r\nKein LTE-Streaming möglich\r\nDas neu… [+1607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Bringatrailer.com"
+    },
+    "author": "bringatrailer",
+    "title": "BaT Auction: 2020 Porsche 718 Cayman GT4",
+    "description": "This 2020 Porsche 718 Cayman GT4 is powered by a naturally aspirated 4.0-liter flat-six paired with a six-speed manual transaxle, and it is finished in Carrara White Metallic over black leather and Alcantara upholstery. Equipment includes the Light Design Pac…",
+    "url": "https://bringatrailer.com/listing/2020-porsche-cayman-gt4-25/",
+    "urlToImage": "https://bringatrailer.com/wp-content/uploads/2022/08/2020_porsche_cayman-gt4_2020_porsche_cayman-gt4_c394420a-0500-480e-9f8c-a9e8e8808e91-iuhs5g-41019-99578.jpg",
+    "publishedAt": "2022-09-15T00:20:04Z",
+    "content": "This 2020 Porsche 718 Cayman GT4 is powered by a naturally aspirated 4.0-liter flat-six paired with a six-speed manual transaxle, and it is finished in Carrara White Metallic over black leather and A… [+2722 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gihyo.jp"
+    },
+    "author": "磯部有司",
+    "title": "第4章 スクレイピングの実装 ～人気サービス「note」のタイムラインを取得する",
+    "description": "本特集は、ヘッドレスChromeの紹介に始まり、PuppeteerのAPIの解説や、実践的なE2Eテストの実現方法を説明してきました。最終章では、これまでに学んだ集大成として、実在するサイトのスクレイピングを行います。具体的には、人気サービス「note」（ノート）のタイムラインをスクレイピングし、最新の20件のノートを取得するプログラムを解説します。",
+    "url": "https://gihyo.jp/article/2022/09/rapid-learning-puppeteer-04",
+    "urlToImage": "https://gihyo.jp/assets/images/ICON/2022/puppeteer2.png",
+    "publishedAt": "2022-09-15T00:00:00Z",
+    "content": "ChromePuppeteerAPIE2E\r\nnote\r\n⁠\r\n120\r\nrobots.\r\ntxt\r\nUser Agent\r\nHTTP\r\nAmazon\r\nFacebook\r\nnote\r\nrobots.\r\ntxt\r\nrobots.\r\ntxtURLrobots.\r\ntxt1URL\r\n1 robots.txt\r\n<table><tr><th></th><th>robots.\r\ntxtURL</th><… [+5605 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "cleveland.com"
+    },
+    "author": "Chris Fedor, cleveland.com",
+    "title": "Donovan Mitchell ‘couldn’t be happier’ after trade to Cleveland Cavaliers - cleveland.com",
+    "description": "<ol><li>Donovan Mitchell ‘couldn’t be happier’ after trade to Cleveland Cavaliers  cleveland.com\r\n</li><li>Donovan Mitchell pushes past departure from Utah Jazz, adamant Cleveland Cavaliers can 'really build something special'  ESPN\r\n</li><li>New Cavs star Do…",
+    "url": "https://www.cleveland.com/cavs/2022/09/donovan-mitchell-couldnt-be-happier-after-trade-to-cleveland-cavaliers.html",
+    "urlToImage": "https://www.cleveland.com/resizer/x998UQMnzJ8hz_oGK2y3L9ciD58=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/CT6RCF7V5ZF3TLHSBMXXQ37LJ4.jpg",
+    "publishedAt": "2022-09-15T00:40:00Z",
+    "content": "CLEVELAND, Ohio Call it serendipity. Perhaps destiny.\r\nEven though it was a two-month process that began during Las Vegas Summer League in July, Donovan Mitchell becoming a member of the Cleveland Ca… [+11370 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Tom Murray",
+    "title": "Zendaya’s mother says security stopped her at the Emmys",
+    "description": "‘I said “I’m Zendaya’s mom” and kept walking!!’ actor’s mother said",
+    "url": "https://www.independent.co.uk/arts-entertainment/tv/news/zendaya-mother-claire-stoermer-emmys-security-b2167619.html",
+    "urlToImage": "https://static.independent.co.uk/2022/09/14/18/Collage%20Maker-14-Sep-2022-10.41-AM.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-09-15T04:21:30Z",
+    "content": "Zendayas mother said she had to name drop her own daughter in order to get past security at the Emmy Awards on Monday (12 September).\r\nAt the ceremony at the Microsoft Theater, Los Angeles, Zendaya w… [+1637 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Via AP news wire",
+    "title": "EXPLAINER: What to know about 'buy now, pay later'",
+    "description": "If you shop online for clothes or furniture, sneakers or concert tickets, you’ve seen the option at checkout to “buy now, pay later” by breaking the cost into smaller installments over time",
+    "url": "https://www.independent.co.uk/news/ap-explainer-apple-new-york-klarna-b2167606.html",
+    "urlToImage": "https://static.independent.co.uk/2022/09/15/05/Buy_Now_Pay_Later_Worries_23312.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-09-15T04:01:08Z",
+    "content": "Since the start of the pandemic, the option to buy now, pay later has skyrocketed in popularity, especially among young and low-income consumers who may not have ready access to traditional credit. \r… [+6238 chars]"
+    },
+    {
+    "source": {
+    "id": "independent",
+    "name": "Independent"
+    },
+    "author": "Via AP news wire",
+    "title": "As 'buy now, pay later' plans grow, so do delinquencies",
+    "description": "A growing number of American shoppers have jumped at the chance to use “buy now, pay later” loans to pay for new sneakers, electronics, or luxury goods in installments",
+    "url": "https://www.independent.co.uk/news/ap-paypal-klarna-new-york-inflation-b2167607.html",
+    "urlToImage": "https://static.independent.co.uk/2022/09/15/05/Buy_Now_Pay_Later_Worries_65334.jpg?quality=75&width=1200&auto=webp",
+    "publishedAt": "2022-09-15T04:01:07Z",
+    "content": "Americans have grown fond of buy now, pay later services, but the pay later part is becoming increasingly difficult for some borrowers. \r\nBuy now, pay later loans allow users to pay for items such ne… [+7752 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tweakers.net"
+    },
+    "author": "Arnoud Wokke",
+    "title": "Tweakers Podcast #234 - Google Maps-blaadjes, Instagram-paniek en gameprijzen",
+    "description": "Deze week praten Wout Funnekotter, Arnoud Wokke en Jasper Janssen over Apple Clean Energy Charging, de besparingsfunctie in Google Maps, Instagrams reactie op TikTok, gameprijzen, gamecontrollers op telefoons en satellietverbindingen vanaf reguliere smartphon…",
+    "url": "https://tweakers.net/geek/201102/tweakers-podcast-234-google-maps-blaadjes-instagram-paniek-en-gameprijzen.html",
+    "urlToImage": "https://tweakers.net/i/uxWOxdTM_47h6X-iMbfRAP9K8fk=/134x134/filters:strip_icc():strip_exif()/i/2004648114.jpeg?f=meta",
+    "publishedAt": "2022-09-15T04:00:00Z",
+    "content": "Deze week praten Wout Funnekotter, Arnoud Wokke en Jasper Janssen over Apple Clean Energy Charging, de besparingsfunctie in Google Maps, Instagrams reactie op TikTok, gameprijzen, gamecontrollers op … [+251 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Joyce Lee",
+    "title": "Samsung Elec to invest over $5 billion as it targets net zero emissions by 2050",
+    "description": "Samsung Electronics will invest over 7 trillion won ($5.02 billion) by 2030 as part of sweeping environmental initiatives aimed at making the company carbon ...",
+    "url": "https://finance.yahoo.com/news/samsung-elec-invest-over-5-020608516.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/F89FE_hwZNPPusaZHjhHxA--~B/aD01NDk7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/1e7a2dab708b9fe93daa1dc66fc141c6",
+    "publishedAt": "2022-09-15T02:06:08Z",
+    "content": "By Joyce Lee\r\nSEOUL (Reuters) - Samsung Electronics will invest over 7 trillion won ($5.02 billion) by 2030 as part of sweeping environmental initiatives aimed at making the company carbon neutral by… [+3328 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Heesu Lee",
+    "title": "Samsung to Invest $5 Billion Under Plan to Tame Rising Emissions",
+    "description": "(Bloomberg) -- Samsung Electronics Co. will invest 7 trillion won ($5 billion) in green initiatives and lobby South Korea to add more clean energy as the...",
+    "url": "https://finance.yahoo.com/news/samsung-invest-5-billion-under-020000242.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/V2tvfpDEBBqD0YVoZ_TLGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MjA-/https://media.zenfs.com/en/bloomberg_technology_68/fb1f985a30c5c51197a1d4181d773bd2",
+    "publishedAt": "2022-09-15T02:00:00Z",
+    "content": "(Bloomberg) -- Samsung Electronics Co. will invest 7 trillion won ($5 billion) in green initiatives and lobby South Korea to add more clean energy as the electronics giant looks to reverse a rise in … [+3762 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Yahoo Sports Videos",
+    "title": "Could Jerry Jones’ unrealistic return date for Dak Prescott backfire on the Cowboys? | You Pod to Win the Game",
+    "description": "Yahoo Sports’ Charles Robinson and Tank Williams discuss Cowboy’s owner Jerry Jones saying that they think injured quarterback Dak Prescott will be back from thumb surgery in 3-4 weeks rather than the originally stated 6-8 weeks. Charles is concerned they wil…",
+    "url": "https://sports.yahoo.com/could-jerry-jones-unrealistic-return-040546838.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/kvxpSH_bQ6H8SkdIEJodag--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2022-09/914d07f0-34ab-11ed-bbe9-8824e48ba83f",
+    "publishedAt": "2022-09-15T04:05:46Z",
+    "content": "<ul><li>\r\n</li></ul>\r\nYahoo Sports Charles Robinson and Tank Williams discuss Cowboys owner Jerry Jones saying that they think injured quarterback Dak Prescott will be back from thumb surgery in 3-4 … [+433 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Raiders have 3 starter miss Wednesday’s practice",
+    "description": "Check out the first injury report of the week for the Cardinals' Week 2 opponent, the Las Vegas Raiders.",
+    "url": "https://cardswire.usatoday.com/lists/raiders-have-3-starter-miss-wednesdays-practice/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/q9QjzpUbQqWi5sEeK913iQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/d40132933d821db3b6809482cf9532a2",
+    "publishedAt": "2022-09-15T03:10:12Z",
+    "content": "The Arizona Cardinals are not the only team this week dealing with injuries to starters. Their Week 2 opponent, the Las Vegas Raiders, also have starters who are hurt.\r\nThey already had to place one … [+1382 chars]"
+    },
+    {
+    "source": {
+    "id": "usa-today",
+    "name": "USA Today"
+    },
+    "author": "Cardinals Wire",
+    "title": "Rondale Moore, Zach Ertz among 7 Cardinals who do not practice Wednesday",
+    "description": "Check out the Arizona Cardinals' first injury report of Week 2.",
+    "url": "https://cardswire.usatoday.com/lists/arizona-cardinals-wednesday-injury-report-raiders-week-2-rondale-moore-zach-ertz/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zA4OIMS.Y99pZzyXMeJ9Mg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/arizona_cardinals_wire_usa_today_sports_articles_662/0ea5575cd94e5a5b12d38573beeaa2ab",
+    "publishedAt": "2022-09-15T02:39:58Z",
+    "content": "The Arizona Cardinals have had to deal with a number of injuries early in the 2022 NFL season. Entering Week 2 as they prepare to take on the Las Vegas Raiders this weekend on the road, they are stil… [+1740 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Paul Tan's Automotive News"
+    },
+    "author": "Pan Eu Jin",
+    "title": "2024 Ford Mustang debuts – rev engine using the key, electronic drift handbrake, UI using 3D Unreal Engine!",
+    "description": "Ford has launched the all-new seventh-generation Mustang (codenamed S650) to replace the previous-generation model, which made its debut almost 10 years ago in 2013. The 2024 Ford Mustang is available with two updated engine options, […]\nThe post 2024 Ford Mu…",
+    "url": "https://paultan.org/2022/09/15/2024-ford-mustang/",
+    "urlToImage": "https://paultan.org/image/2022/09/2022-ford-mustang-s560-6-e1663214473518-1200x644.jpg",
+    "publishedAt": "2022-09-15T04:49:39Z",
+    "content": "Ford has launched the all-new seventh-generation Mustang (codenamed S650) to replace the previous-generation model, which made its debut almost 10 years ago in 2013.\r\nThe 2024 Ford Mustang is availab… [+5376 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Www.nzz.ch"
+    },
+    "author": "Nadine Landert (nla), Sebastian Panholzer (sep)",
+    "title": "PODCAST - Wenn sich eine Frau nach Jahren erinnert, vom Vater sexuell missbraucht worden zu sein – der schwierige Umgang mit plötzlich erlangten Erinnerungen",
+    "description": "Eine junge Frau erinnert sich plötzlich an traumatische Erlebnisse aus ihrer Kindheit, an satanistische Rituale und sexuellen Missbrauch durch ihre Eltern. Wie sicher kann man sein, dass solche Erinnerungen wahr sind?",
+    "url": "https://www.nzz.ch/podcast/gedaechtnis-streit-luegen-erinnerungen-nzz-akzent-ld.1690902",
+    "urlToImage": "https://img.nzz.ch/2022/06/27/e0522b55-60f2-4384-b6ad-6bb28a8c3a23.jpeg?width=1200&height=674&fit=bound&quality=75&auto=webp&crop=2644,1486,x0,y3&wmark=nzz",
+    "publishedAt": "2022-09-15T03:30:00Z",
+    "content": "Hören und abonnieren Sie den Podcast «NZZ Akzent» auch auf Spotify,Apple Podcasts oder Castbox.\r\nHaben Sie ein Feedback zum Podcast? Sagen Sie uns Ihre Meinung.\r\nIn dieser Podcast-Episode:\r\nDie Gesch… [+1261 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Dgtle.com"
+    },
+    "author": "于鲸",
+    "title": "iPhone 14 Pro Max 电池小了，续航却比上代提升了两小时！",
+    "description": "对于新一代 iPhone 14 系列来说，入门版 iPhone 14 电池容量 3279mAh、iPhone 14 Plus 电池容量 4325mAh、iPhone 14 Pro 电池容量 3200mAh、iPhone 14 Pro Max 电池容量 4323mAh。与 iPhone 13 系列相比，iPhone 14、Pro、Plus 这三款机型的电池容量都有所提升，但 iPhone 14 Pro Max 电池容量反而下降了，那它的续航表现如何呢？根据外媒 Tom's Guide 模拟实际使用情况的电池测试，i…",
+    "url": "https://www.dgtle.com/news-1548845-14.html",
+    "urlToImage": null,
+    "publishedAt": "2022-09-15T03:21:18Z",
+    "content": "iPhone 14 iPhone 14 3279mAhiPhone 14 Plus 4325mAhiPhone 14 Pro 3200mAhiPhone 14 Pro Max 4323mAh\r\n iPhone 13 iPhone 14ProPlus iPhone 14 Pro Max \r\nTom's Guide iPhone 14 Pro Max iPhone 13 Pro Max \r\nTom'… [+123 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Moneycontrol"
+    },
+    "author": "Reuters",
+    "title": "Samsung Electronics to invest over $5 billion as it targets net zero emissions by 2050",
+    "description": "&quot;These activities are to eventually meet demand from our customers ... so that we raise interest in our products,&quot; said Kim. &quot;There are costs, but we will try to forge a business opportunity.&quot;",
+    "url": "https://www.moneycontrol.com/news/world/samsung-electronics-to-invest-over-5-billion-as-it-targets-net-zero-emissions-by-2050-9180751.html",
+    "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/09/samsung-770x433.png",
+    "publishedAt": "2022-09-15T02:16:30Z",
+    "content": "Samsung Electronics will invest over 7 trillion won ($5.02 billion) by 2030 as part of sweeping environmental initiatives aimed at making the company carbon neutral by 2050, the world's largest chip … [+3213 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Vulture"
+    },
+    "author": "Brian Moylan",
+    "title": "The Real Housewives of Beverly Hills Recap: Crimes and Misty Mean Girls",
+    "description": "If only Erika would show the tiniest bit of sympathy, we could all move on to ignoring Kathy’s tequila. A recap of “Rocky Mountain Bye,” episode 18 of season 12 of ‘The Real Housewives of Beverly Hills’ on Bravo.",
+    "url": "http://www.vulture.com/article/real-housewives-of-beverly-hills-recap-season-12-episode-18-rocky-mountain-bye.html",
+    "urlToImage": "https://pyxis.nymag.com/v1/imgs/30e/cef/7e09240817f357ee1ed3a75c9153cfa3cd-rhobh.1x.rsocial.w1200.jpg",
+    "publishedAt": "2022-09-15T01:30:35Z",
+    "content": "This week on our favorite show, Rich Women Behaving Badly, the rich women behaved badly. How badly? Well, honey child, how much time do you have? Not enough because there was so much badness. So much… [+9697 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo Australia"
+    },
+    "author": "Asha Barbaschow",
+    "title": "iPhone 14 Sale Sends Apple Into A Y2K Spin",
+    "description": "A day before the new Apple iPhone 14 range goes on sale, the company’s website has given up, giving us some 90s chic for our troubles.\nThe post iPhone 14 Sale Sends Apple Into A Y2K Spin appeared first on Gizmodo Australia.\n  Related Stories\r\n<ul><li>iPhone 1…",
+    "url": "https://www.gizmodo.com.au/2022/09/apple-website-issues/",
+    "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/15/gizmodo-27.png?quality=80&resize=1280,720",
+    "publishedAt": "2022-09-15T04:14:41Z",
+    "content": "A day before the new Apple iPhone 14 range goes on sale, the companys website underwent a redesign. A minimalist one, one sending me right back to 1999.\r\nPeople began noticing the issue with the phon… [+1299 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo Australia"
+    },
+    "author": "Zachariah Kelly",
+    "title": "The Acer 12th Gen Swift 5 Is a Beautiful MacBook Alternative With a Lot of Power",
+    "description": "The Acer 12th Gen Swift 5 is a brilliant, no-nonsense laptop that delivers some great performance in a beautiful shell.\nThe post The Acer 12th Gen Swift 5 Is a Beautiful MacBook Alternative With a Lot of Power appeared first on Gizmodo Australia.\n  Related St…",
+    "url": "https://www.gizmodo.com.au/2022/09/acer-12th-swift-5-review/",
+    "urlToImage": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/15/acer_12th_gen_swift_5__1_.png?quality=80&resize=1280,720",
+    "publishedAt": "2022-09-15T01:42:50Z",
+    "content": "The Acer 12 Gen Swift 5 is a brilliant, no-nonsense laptop that delivers enough power to satisfy most users, wrapped in a really beautiful two-tone rose gold and dark grey case.\r\nWith a 16:10 1920 x … [+5175 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "iPhone 14 Pro Max работает ещё дольше, чем iPhone 13 Pro Max. Время и мощность зарядки iPhone 14 Pro и iPhone 14 Pro Max",
+    "description": "iPhone 14 имеет встроенную батарею емкостью 3279 мА•ч, iPhone 14 Plus имеет батарею емкостью 4325 мА•ч, iPhone 14 Pro получил батарею емкостью 3200 мА•ч, а iPhone 14 Pro Max оснащён самым большим аккумулятором ёмкостью 4323 мА•ч. Для сравнения, в серию iPhone…",
+    "url": "https://www.ixbt.com/news/2022/09/15/iphone-14-pro-max-iphone-13-pro-max-iphone-14-pro-iphone-14-pro-max.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2022/8/4/4a409716835449b28c2c0ed3dd185d64_large.png",
+    "publishedAt": "2022-09-15T04:55:00Z",
+    "content": "iPhone 14 3279 •, iPhone 14 Plus 4325 •, iPhone 14 Pro 3200 •, iPhone 14 Pro Max 4323 •.\r\n , iPhone 13 : iPhone 13 mini (2406 •), iPhone 13 (3227 •), iPhone 13 Pro (3095 •) iPhone 13 Pro Max (4352 •)… [+339 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ttcbn.net"
+    },
+    "author": "立花 岳志",
+    "title": "Apple Watchは見ていた 〜 故障で走れなかった半年間に心肺機能が大きく低下していた",
+    "description": "僕は筋トレとランニングを習慣にしているが、2022年3月に左足を、7月に右足を故障して約半年間ランニングができない時期が続いた。 ようやく足の状態が回復して8月下旬から少しずつランニングを再開している。 ランニングを再開 […]\n投稿 Apple Watchは見ていた 〜 故障で走れなかった半年間に心肺機能が大きく低下していた は No Second Life に最初に表示されました。",
+    "url": "https://www.ttcbn.net/it/apples/167061",
+    "urlToImage": "https://www.ttcbn.net/wp/wp-content/uploads/2022/09/220915-01-2.jpeg",
+    "publishedAt": "2022-09-15T01:38:09Z",
+    "content": "(C) 2010 Takeshi Tachibana"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Россияне установили рекорд по предзаказам на iPhone 14",
+    "description": "По данным МТС, предзаказы на смартфоны серии iPhone 14 за первую неделю в России оформили в 2,5 раза больше покупателей, чем в прошлом году на iPhone 13 за тот же период. Более 70% оплаченных предзаказов в сети приходится на версии Pro и Pro Max, а самым нево…",
+    "url": "https://www.ixbt.com/news/2022/09/15/rossijane-ustanovili-rekord-po-predzakazam-na-iphone-14.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2022/8/4/dynamic-island-1_large_large.jpg",
+    "publishedAt": "2022-09-15T03:14:00Z",
+    "content": ", iPhone 14 2,5 , iPhone 13 . 70% Pro Pro Max, iPhone 14 128 .\r\n «.-» , « , ». «», Apple iPhone 14 Pro Max. 21% , iPhone 14 Pro, , iPhone 14. iPhone 14 Plus . «» iPhone « ». re:Store .\r\n , iPhone, eS… [+190 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ixbt.com"
+    },
+    "author": "jin@ixbt.com (Jin)",
+    "title": "Как работают iPhone 14 Pro и Dynamic Island в реальности. Полный список приложений и функций с поддержкой Dynamic Island",
+    "description": "Совершенно новый вырез Dynamic Island на iPhone 14 Pro и Pro Max — одно из самых больших изменений в топовых смартфонах Apple этого года. \r\n На момент запуска будет более 40 сценариев использования Dynamic Island как в нативных приложениях и функциях iOS 16, …",
+    "url": "https://www.ixbt.com/news/2022/09/15/iphone-14-pro-dynamic-island-dynamic-island.html",
+    "urlToImage": "https://www.ixbt.com/img/n1/news/2022/8/4/Снимок%20экрана%202022-09-15%20071057_large.jpg",
+    "publishedAt": "2022-09-15T04:11:00Z",
+    "content": "Dynamic Island iPhone 14 Pro Pro Max — Apple .\r\n 40 Dynamic Island iOS 16, . (MKBHD) , Dynamic Island. , Dynamic Island .  ,   18 .\r\n , , — Dynamic Island. Dynamic Island, . , . , , iPhone .\r\nDynamic… [+71 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "NPR",
+    "title": "The Good, the Bad, and the Uggly",
+    "description": "Eddie Oygur is an Australian businessman who's sold sheepskin ugg boots for years. But one day, he was hit with a lawsuit for breaking American trademark law. On today's show — what's in the name ugg? Subscribe to Planet Money+ in Apple Podcasts or at plus.np…",
+    "url": "https://www.npr.org/2022/09/13/1122820376/the-good-the-bad-and-the-uggly",
+    "urlToImage": "https://media.npr.org/assets/img/2022/09/14/gettyimages-594427106_wide-882e661e0128f267094f4775950e4b3fe4e671c1.jpeg?s=1400",
+    "publishedAt": "2022-09-15T03:33:52Z",
+    "content": "NEW YORK, NY - AUGUST 23: UGG boots on display at an event introducing Hailey Baldwin for UGG Classic Street on August 23, 2016 in New York City. (Photo by Jamie McCarthy/Getty Images for UGG)\r\nJamie… [+1390 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hotnews.ro"
+    },
+    "author": null,
+    "title": "The Beatles: O poveste cu... “va urma\"",
+    "description": "The Beatles: O poveste cu... “va urma”. Mai mult de jumătate de secol a trecut de la disoluţia unui grup cu o existenţă relativ scurtă - mai ales în comparaţie cu parcursul Rolling Stones -, dar The Beatles continuă să fie cel mai popular şi influent brand mu…",
+    "url": "https://www.hotnews.ro/stiri-perspektiva-25790989-the-beatles-poveste-urma.htm",
+    "urlToImage": "https://media.hotnews.ro/media_server1/image-2022-09-15-25790981-0-the-beatles.jpg",
+    "publishedAt": "2022-09-15T01:41:12Z",
+    "content": "The Beatles: O poveste cu... va urma. Mai mult de jumtate de secol a trecut de la disoluia unui grup cu o existen relativ scurt - mai ales în comparaie cu parcursul Rolling Stones -, dar The Beatles … [+9170 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Appps.jp"
+    },
+    "author": "kenji",
+    "title": "iPhone15 ProモデルだけにA17チップ搭載？TSMC第2世代3nmプロセス使用",
+    "description": "Appleはすでに2023年発売予定のiPhone15の開発も進めており、iPhone15シリーズの大型アップデートの噂がありますが、iPhone15シリーズに搭載されるAppleシリコンチップについて、サプライチェーンサイドからの情報がレポートされました。",
+    "url": "https://www.appps.jp/370240/",
+    "urlToImage": "https://www.appps.jp/wp-content/uploads/2022/08/yr.jpg",
+    "publishedAt": "2022-09-15T01:49:16Z",
+    "content": "iPhone14916\r\nApple2023iPhone15iPhone15iPhone15Apple\r\nMacRumorsNikkei AsiaA172023iPhone\r\nNikkei Asia2023iPhone15ProA17A17N3ETSMC3nm\r\nAppleTSMC4nmA16iPhone14 ProiPhone 14iPhone14 PlusA15\r\nMacRumorsNikk… [+29 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Graham Cluley Security News"
+    },
+    "author": "Graham Cluley",
+    "title": "Smashing Security podcast #289: Printer peeves, health data hangups, and Twitter tussles – with Rory Cellan-Jones",
+    "description": "How could your inkjet printer finally help you make some money, why is it so hard to share our health data even if we want to, and what result do you want to see from the Elon Musk vs Twitter bunfight? All this and much more is discussed in the latest edition…",
+    "url": "https://grahamcluley.com/smashing-security-podcast-289/",
+    "urlToImage": "https://grahamcluley.com/wp-content/uploads/2022/09/ss-episode-289.jpeg",
+    "publishedAt": "2022-09-15T00:33:15Z",
+    "content": "How could your inkjet printer finally help you make some money, why is it so hard to share our health data even if we want to, and what result do you want to see from the Elon Musk vs Twitter bunfigh… [+1535 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ozbargain.com.au"
+    },
+    "author": "ozdeals4me1",
+    "title": "Apple iPhone SE 2022 (3rd Generation) Starlight 64GB $552.43 Delivered (Grey Import) @ Reebelo Australia",
+    "description": "Hi all!!\n\nThese were about $620 a month ago and they have significantly dropped in price at Reebelo!\n\nThe price is for a brand new device with free delivery!\n\nThey are a great phone, and they run the same A15 Bionic Chip as the iPhone 13 Pro.\n\nHope this helps…",
+    "url": "https://www.ozbargain.com.au/node/724857",
+    "urlToImage": "https://files.ozbargain.com.au/n/57/724857l.jpg?h=66e36e76",
+    "publishedAt": "2022-09-15T01:24:56Z",
+    "content": "Keep a close eye on Reebelo. Sometimes they have pricing errors which can really work in your favor, like my s21ultra post\r\nI believe this comes from some automated live pricing adjustment system the… [+350 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Boston Globe"
+    },
+    "author": "KIM TONG-HYUNG",
+    "title": "Samsung sets goal to attain 100% clean energy by 2050",
+    "description": "In announcing its target Thursday, Samsung said it aims to achieve net zero carbon emissions across its mobile device, television and consumer electronics divisions by 2030, and across all global operations including semiconductors by 2050.",
+    "url": "https://www.bostonglobe.com/2022/09/15/business/samsung-sets-goal-attain-100-clean-energy-by-2050/",
+    "urlToImage": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/lhYJvWeHpTWwSPfE8Jv69Lj33Rs=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/6YRFHFV5RCDY4QA44YC65TRIQQ.jpg",
+    "publishedAt": "2022-09-15T04:18:52Z",
+    "content": "It plans to invest 7 trillion won ($5 billion) through 2030 on projects aimed at reducing emissions from process gases, controlling and recycling electronic waste, conserving water and minimizing pol… [+3793 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "International Business Times"
+    },
+    "author": "Joyce Lee",
+    "title": "Samsung Elec To Invest Over $5 Billion As It Targets Net Zero Emissions By 2050",
+    "description": "Samsung Electronics will invest over 7 trillion won ($5.02 billion) by 2030 as part of sweeping environmental initiatives aimed at making the company carbon neutral by 2050, the world's largest chip and mobile maker said on Thursday.",
+    "url": "https://www.ibtimes.com/samsung-elec-invest-over-5-billion-it-targets-net-zero-emissions-2050-3613015",
+    "urlToImage": "https://d.ibtimes.com/en/full/3817351/logo-samsung-electronics-seen-its-office-building-seoul.jpg",
+    "publishedAt": "2022-09-15T02:45:14Z",
+    "content": "The logo of Samsung Electronics is seen at its office building in Seoul, South Korea South Korea, October 11, 2017. \r\nSamsung Electronics will invest over 7 trillion won ($5.02 billion) by 2030 as pa… [+3410 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Returnofthecaferacers.com"
+    },
+    "author": "Geoff Baldwin",
+    "title": "Riding Gear Review: Moni Moto 7 Anti-Theft GPS Tracker",
+    "description": "During 2020 there were 53,111 motorcycles reported stolen in the USA.  That’s 10,000 more than the previous year. It doesn’t take a genius to figure out that means the chance of your bike being stolen increases every day. Secure storage, bike locks, alarms an…",
+    "url": "https://www.returnofthecaferacers.com/motorcycle-accessories/moni-moto-gps-tracker/",
+    "urlToImage": "https://www.returnofthecaferacers.com/wp-content/uploads/2022/09/moni-moto-motorcycle-tracker-00.jpg",
+    "publishedAt": "2022-09-15T01:00:24Z",
+    "content": "During 2020 there were 53,111 motorcycles reported stolen in the USA.  That’s 10,000 more than the previous year. It doesn’t take a genius to figure out that means the chance of your bike being stole… [+6040 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Business Wire"
+    },
+    "author": null,
+    "title": "All-New Ford Mustang Redefines Driving Freedom with Immersive Digital Cockpit, Advanced Engines and Bold Style",
+    "description": "DETROIT--(BUSINESS WIRE)--Ford once again sounds a wake-up call for sports car lovers around the world with the introduction of the all-new Ford Mustang. The seventh generation is the most exhilarating and visceral yet, from its fighter jet-inspired digital c…",
+    "url": "https://www.businesswire.com/news/home/20220914005989/en/All-New-Ford-Mustang-Redefines-Driving-Freedom-with-Immersive-Digital-Cockpit-Advanced-Engines-and-Bold-Style",
+    "urlToImage": "https://mms.businesswire.com/media/20220914005989/en/401555/23/Ford_logo.jpg",
+    "publishedAt": "2022-09-15T00:23:10Z",
+    "content": "DETROIT--(BUSINESS WIRE)--Ford once again sounds a wake-up call for sports car lovers around the world with the introduction of the all-new Ford Mustang. The seventh generation is the most exhilarati… [+13576 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Cnblogs.com"
+    },
+    "author": "削微寒",
+    "title": "可靠的自托管「GitHub 热点速览 v.22.37」 - 削微寒",
+    "description": "自托管(Self-Hosted) 是很多开源项目主打的亮点：数据在手，安全我有。本周 GitHub 热点榜单上有多款自托管的项目，当中自然不能少了之前 HG 小伙伴 @makes world simple 说的“笔记应用千千万，每一款都赚的盆满钵满”笔记应用项目——notesnook。此外，还有日常",
+    "url": "https://www.cnblogs.com/xueweihan/p/16695266.html",
+    "urlToImage": null,
+    "publishedAt": "2022-09-15T00:33:00Z",
+    "content": "(Self-Hosted) GitHub HG @makes world simple notesnook\r\n@HelloGitHub GitHub Trending Hacker News HN | | release 14 day New release \r\n<ul><li><ul><li>News \r\n</li><li><ol><li></li></ol><ul><li>1.1 incub… [+1662 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thewindowsclub.com"
+    },
+    "author": "SudipMajhi@TWC",
+    "title": "How to delete Dashlane data and account",
+    "description": "If you do not want to use Dashlane anymore, you can delete Dashlane data and account using this tutorial. No matter whether you have saved one or one hundred passwords and notes, you can delete all of them and cancel your account easily – Free and Paid, both …",
+    "url": "https://www.thewindowsclub.com/how-to-delete-dashlane-data-and-account",
+    "urlToImage": "https://www.thewindowsclub.com/wp-content/uploads/2022/09/delete-dashlane-data-account.jpg",
+    "publishedAt": "2022-09-15T01:22:40Z",
+    "content": "If you do not want to use Dashlane anymore, you can delete Dashlane data and account using this tutorial. No matter whether you have saved one or one hundred passwords and notes, you can delete all o… [+3060 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digitimes"
+    },
+    "author": "DIGITIMES",
+    "title": "Tablet shipments in India rise close to 70% on year in 1Q22, says DIGITIMES Research",
+    "description": "India's tablet shipments went up nearly 70% on year in the first quarter of 2022 with Samsung Electronics being the largest tablet brand, followed by Lenovo. The two vendors together contribute over 50% of India's overall tablet shipments, according to DIGITI…",
+    "url": "https://www.digitimes.com/news/a20220914VL205/india-lenovo-samsung.html",
+    "urlToImage": "https://img.digitimes.com/newsshow/20220914vl205_files/1_2b.jpg",
+    "publishedAt": "2022-09-15T01:49:50Z",
+    "content": "India's tablet shipments went up nearly 70% on year in the first quarter of 2022 with Samsung Electronics being the largest tablet brand, followed by Lenovo. The two vendors together contribute over … [+1729 chars]"
+    },
+    {
+    "source": {
+    "id": "the-times-of-india",
+    "name": "The Times of India"
+    },
+    "author": "TIMESOFINDIA.COM",
+    "title": "Flipkart Big Billion Days sale: What makes iPhone 13 a 'great deal', and why it may not be easy to get - Times of India",
+    "description": "<ol><li>Flipkart Big Billion Days sale: What makes iPhone 13 a 'great deal', and why it may not be easy to get  Times of India\r\n</li><li>Flipkart Big Billion Days sale 2022: Apple iPhone 13 under Rs 35,000 with bank offers and discounts  DNA India\r\n</li><li>A…",
+    "url": "https://timesofindia.indiatimes.com/gadgets-news/flipkart-big-billion-days-sale-what-makes-iphone-13-a-great-deal-and-why-it-may-not-be-easy-to-get/articleshow/94211073.cms",
+    "urlToImage": "https://static.toiimg.com/thumb/msid-94211073,width-1070,height-580,imgsize-25424,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "publishedAt": "2022-09-15T01:50:00Z",
+    "content": ""
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Freebuf.com"
+    },
+    "author": null,
+    "title": "国外流行的同性恋APP被黑灰产们盯上了",
+    "description": "攻击者通过推销各类诈骗和不安全的谷歌Chrome扩展程序域名来诱导用户。",
+    "url": "https://www.freebuf.com/news/344555.html",
+    "urlToImage": null,
+    "publishedAt": "2022-09-15T03:54:56Z",
+    "content": "Bleeping ComputerSniffiesChrome Apple Music \r\nSniffies2018APP\r\nSniffies\r\n Sniffies Kody Kinzie50Sniffies \r\n Sniffies \r\n Chrome \r\nApple\r\nApple Music \r\nSniffies Apple Music \r\nGoogle Chrome AdBlock Max … [+258 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "COMPUTER BILD"
+    },
+    "author": "Markus Werner",
+    "title": "Amazon: Smart-TV mit 65 Zoll und 4K von LG für unter 650 Euro",
+    "description": "Auf der Suche nach einem neuen Fernseher? Dann finden Sie derzeit bei Amazon den Smart-TV LG 65NANO809PA mit 65 Zoll über 260 Euro günstiger im Angebot.",
+    "url": "https://www.computerbild.de/artikel/avf-News-Fernseher-Smart-TV-LG-65NANO809PA-Amazon-Angebot-Deal-33498569.html",
+    "urlToImage": "https://i.computer-bild.de/imgs/1/4/5/3/3/2/7/5/Amazon-Produkt-LG-50NANO809PA-TV-4ae225ac56f474ef.jpg",
+    "publishedAt": "2022-09-15T04:00:00Z",
+    "content": "Hat der TV den Geist aufgegeben, dann suchen viele nach einem schnellen Ersatz. Modelle ab 65 Zoll sind etwa für normal große Wohnzimmer ideal. Aktuell hat Amazon den Smart-TV LG 65NANO809PA für 799 … [+1537 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ZDNet"
+    },
+    "author": "Cho Mu-Hyun",
+    "title": "Samsung aims to reach net zero carbon emissions by 2050",
+    "description": "It aims to reach net zero carbon emissions by 2030 across operations of its consumer electronics division which manufactures smartphones and TVs and by 2050 across all operations including its chip division.",
+    "url": "https://www.zdnet.com/article/samsung-aims-to-reach-net-zero-carbon-emissions-by-2050/",
+    "urlToImage": "https://www.zdnet.com/a/img/resize/f9893da3443703cdd91776d405c7065a8736a2f1/2022/09/15/65091401-6942-47f0-bbfc-b97bb83c628e/5.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2022-09-15T02:56:22Z",
+    "content": "Samsung on Thursday announced a comprehensive environmental strategy to reach net zero carbon emissions by 2050.\r\nThe company's Device Experience (DX) Division, its consumer electronics division that… [+52335 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Theshutterwhale.com"
+    },
+    "author": "The Shutterwhale",
+    "title": "Get Apple AirPods Pro, Smart Air Purifier 4 Pro, or S$300 Cash with Standard Chartered Smart Credit Card – New Customers Only (until 02 October 2022)",
+    "description": "Get Apple AirPods Pro, Xiaomi Smart Air Purifier 4 Pro, or S$300 cash when \nyou sign-up for the Standard Chartered Smart Credit Card as a new customer \nby 02 October 2022.",
+    "url": "https://theshutterwhale.com/blog/2022/9/15/get-apple-airpods-pro-smart-air-purifier-4-pro-or-s300-cash-with-standard-chartered-smart-credit-card-new-customers-only-until-02-october-2022",
+    "urlToImage": "http://static1.squarespace.com/static/52ccee75e4b00bc0dba03f46/52cd02c4e4b0ee5551498c4e/6321a9aea73c9f47a524b125/1663203649501/SCB+Smart+Card.png?format=1500w",
+    "publishedAt": "2022-09-15T01:00:00Z",
+    "content": "The Standard Chartered Smart Credit Card allows cardholders to earn 6% cashback in equivalent Rewards Points on the following merchants (until 31 December 2022) with no minimum spend: \r\n<ul><li>Fast … [+1090 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Canaltech.com.br"
+    },
+    "author": "Thiago Furquim",
+    "title": "Como passar fotos do celular para o pen drive",
+    "description": "Devido à limitação de armazenamento, seja da memória interna ou da nuvem, você pode querer passar fotos do celular para o pen drive. Assim, o acessório de memória flash também pode exercer função de backup para guardar imagens e vídeos com segurança e pratici…",
+    "url": "https://canaltech.com.br/software/como-passar-fotos-do-celular-para-o-pen-drive/",
+    "urlToImage": "https://t.ctcdn.com.br/iKF1pnj6yIeteQtkp2EPEhn6sIc=/1400x788/smart/i613064.png",
+    "publishedAt": "2022-09-15T02:00:00Z",
+    "content": "Devido à limitação de armazenamento, seja da memória interna ou da nuvem, você pode querer passar fotos do celular para o pen drive. Assim, o acessório de memória flash também pode exercer função de … [+2389 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Overclockers.ru"
+    },
+    "author": "[Zero]",
+    "title": "Россияне стали чаще покупать смартфоны китайских брендов",
+    "description": "Но решения Samsung и Apple по-прежнему приобретают весьма активно",
+    "url": "https://overclockers.ru/blog/Zeroblog/show/74781/rossiyane-stali-chasche-pokupat-smartfony-kitajskih-brendov",
+    "urlToImage": "https://overclockers.ru/st/legacy/blog/378660/323672_O.png",
+    "publishedAt": "2022-09-15T04:14:39Z",
+    "content": "Ozon, 2022 , , Apple Samsung. , Xiaomi, realme Poco ( Xiaomi). , 59% 67%.\r\n, , : -, , A-, . -, : . , , - . - , «» , ."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Levelup.com"
+    },
+    "author": "Víctor Rosas",
+    "title": "¡Épico! El soundtrack de ELDEN RING llegó a plataformas de streaming",
+    "description": "Editorial: Gaming / Facebook / Twitter / YouTube / Instagram / Noticias / Discord /Telegram / Google News\nContinuar leyendo »",
+    "url": "https://www.levelup.com/noticias/699366/Epico-El-soundtrack-de-ELDEN-RING-llego-a-plataformas-de-streaming",
+    "urlToImage": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/761377/761377_600x315.jpg",
+    "publishedAt": "2022-09-15T01:58:00Z",
+    "content": "Editorial: Gaming / Facebook / Twitter / YouTube / Instagram / Noticias / Discord /Telegram / Google News\r\nLos juegos de FromSoftware son un deleite por la manera en que combinan distintos artes para… [+2488 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "kotobaya",
+    "title": "トリニティ、Apple Watch S8/SE/Ultra用の画面保護ガラスを発売",
+    "description": "トリニティは、同社のブランドSimplismより、Apple Watch Series 8、Apple Watch SE（第2世代）、Apple Watch Ultraに対応した画面保護ガラスやケースを発売すると発表しました。\n \n発売日は10月下旬で、トリニティオンラインストアや全国の家電量販店、トリニティプレミアムストア（Amazon / 楽天市場店 / Yahoo!店）、Apple専門店キットカットにて順次販売を開始します。トリニティオンラインストアでは9月14日より予約受付を開始しています。\n衝撃吸収 高…",
+    "url": "https://iphone-mania.jp/news-487182/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/09/15/a8c233d3581a02cb74381c3319b67e39-e1663204690665.jpg",
+    "publishedAt": "2022-09-15T01:32:33Z",
+    "content": "SimplismApple Watch Series 8Apple Watch SE2Apple Watch Ultra10Amazon /  / Yahoo!Apple914 2\r\nTPU 221,0801,180\r\n<ul><li>Apple Watch Series 7/84145</li><li>Apple Watch Series 4/5/6/SE40/44</li><li>Apple… [+456 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "kotobaya",
+    "title": "Apple公式サイトがサーバーダウン　アクセスできない状態続く",
+    "description": "Apple公式サイトがサーバーダウンし、現在接続できない状態が続いています。接続障害は世界中で起こっている模様で、日本以外の国ではアクセスできるケースもありますが、画像が表示されないなどの不具合も起こっています。\n404エラーが表示され、アクセス不可に\n本稿を執筆している2022年9月15日午後1時時点で、Apple公式サイトにアクセスすると404エラー（存在しないページへのアクセス時に表示されるエラー）が表示され、コンテンツが閲覧できない状態になっています。\n \n\n \n接続障害は日本以外の国でも起こっている模様…",
+    "url": "https://iphone-mania.jp/news-487255/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/09/15/d58f60e565bb4cc881cc2d0b22d1f2f8-e1663215103190.jpg",
+    "publishedAt": "2022-09-15T04:18:49Z",
+    "content": "Apple404\r\n20229151Apple404\r\n AppleWebAppleAppleSource:Apple via …(kotobaya)"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "m7000",
+    "title": "iOS16.1開発者向けベータ1で、米国向け新機能「クリーンエネルギー充電」が追加",
+    "description": "現地時間9月14日に開発者向けに公開されたiOS16.1ベータ1で、iPhoneの二酸化炭素排出量を削減することを目的とした新機能「クリーンエネルギー充電」が追加されていることが明らかとなりました。\n米国ユーザー向け新機能、iOS16.1ベータ1で追加\n新機能「クリーンエネルギー充電」は、「設定」アプリの「バッテリー」から、オン/オフの切り替えが可能で、より二酸化炭素排出量の少ないエネルギー源を利用可能な時に充電時間を最適化することで、より環境に配慮した充電方法を提供することを目的としています。\n \nAppleに…",
+    "url": "https://iphone-mania.jp/news-487167/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/09/15/clean-energy-charging-ios-16-1-e1663200049754.webp",
+    "publishedAt": "2022-09-15T00:12:41Z",
+    "content": "914iOS16.11iPhone\r\niOS16.11\r\n/AppleiPhoneiOS162022iOS16iOS16.11watchOS9.1tvOS16.11iPadOS16.12Source:Apple via MacRumorsPhoto:MacRumors(m7000)"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Iphone-mania.jp"
+    },
+    "author": "lunatic",
+    "title": "Anker、iPhone14シリーズに最適な新充電器やケーブル計8製品を発表",
+    "description": "Ankerは2022年9月15日、Appleの新しいiPhone14シリーズに最適な、コンパクトサイズのUSB充電器やケーブル、電源アップ、モバイルバッテリーの計8製品を発表しました。\n8製品を発表、6製品は即時販売開始\nAnkerが発表したのは次の8製品です（ケーブルはそれぞれの長さを1製品ずつとカウント）。うち6製品は9月15日発売、PowerCore 20000/PowerCore Fusion, 45Wはこの秋順次発売されます。\n \n<ul>\n<li>Anker 511 Charger (Nano 3, …",
+    "url": "http://iphone-mania.jp/news-485949/",
+    "urlToImage": "https://iphone-mania.jp/uploads/2022/09/12/A21471V1_ND02-e1662983679760.jpg",
+    "publishedAt": "2022-09-15T02:00:25Z",
+    "content": "Anker2022915AppleiPhone14USB886\r\nAnker816915PowerCore 20000/PowerCore Fusion, 45W\r\n<ul><li>Anker 511 Charger (Nano 3, 30W)</li><li>Anker 541 USB-C &amp; (0.9m/1.8m)</li><li>Anker 543 USB-C &amp; USB-… [+659 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "ClaireC",
+    "title": "新玩意兒不見得好用，更新 iOS 16 後你會想關掉的三個功能",
+    "description": "Apple 的 iOS 16 正式釋出了，安裝後你會發現許多你喜歡的新功能，像是電池電量百分比的回歸、編輯和取消發送訊息等，但是其中可能還有一些你不喜歡或不感冒的功能。那麼這次筆者整理了三個明明是新玩意兒卻不怎麼討人喜歡的功能，並且還要來教你怎麼關閉它。\nThe post 新玩意兒不見得好用，更新 iOS 16 後你會想關掉的三個功能 appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/459433",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2022/09/1663207912-e4bde0eb46b8f32ef4b4207f5344b4d4.jpg",
+    "publishedAt": "2022-09-15T02:14:19Z",
+    "content": "Apple iOS 16 \r\n iOS 16 \r\nApple AI iPhone AI iOS 16 \r\niPhone iOS 16 \r\niPhone iOS 16 Dock iOS 16"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Kocpc.com.tw"
+    },
+    "author": "Shengti",
+    "title": "iOS 16.1 將為這 4 款舊款 iPhone 的狀態列也加入添加了「電池百分比」顯示（同場加映：電池百分比開啟方法教學）",
+    "description": "日前 iOS 16 系統正式開放更新，除了多項介面優化與新功能外，這次在 iOS 16 回歸了大家期待的「電池百分比」顯示，而先前曾傳出有幾款 iPhone 在更新到 iOS 16 系統後仍無法支援此功能。但最新消息指出，在後續的 iOS 16.1 更新也可以用囉！\nThe post iOS 16.1 將為這 4 款舊款 iPhone 的狀態列也加入添加了「電池百分比」顯示（同場加映：電池百分比開啟方法教學） appeared first on 電腦王阿達.",
+    "url": "https://www.kocpc.com.tw/archives/459426",
+    "urlToImage": "https://www.kocpc.com.tw/wp-content/uploads/2022/09/1663202304-e62da0975279bd4f8f4e81dda707ba5b.jpg",
+    "publishedAt": "2022-09-15T01:25:14Z",
+    "content": "iOS 16 iPhone iOS 16 iOS 16 iPhone iOS 16 iOS 16.1 \r\nApple 13 iOS 16 iPhone 8 iPhone SE 2 iPhone iPhone iOS 16\r\n<ul><li>iPhone 14 iPhone 14iPhone 14 PlusiPhone 14 ProiPhone 14 Pro Max</li><li>iPhone … [+583 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Livedoor.jp"
+    },
+    "author": "bluejay01",
+    "title": "タブレット持ってない奴っているの？",
+    "description": "1: 以下、5ちゃんねるからVIPがお送りします 2022/09/13(火) 11:53:35.948 ID:+sWeXNwV0\n めちゃくちゃ便利だよタブレット",
+    "url": "http://blog.livedoor.jp/bluejay01-review/archives/59725293.html",
+    "urlToImage": null,
+    "publishedAt": "2022-09-15T01:03:51Z",
+    "content": "2: 5VIP 2022/09/13() 11:53:54.379 ID:y1MQP0u90\r\n5: 5VIP 2022/09/13() 11:54:22.006 ID:+sWeXNwV0\r\n4: 5VIP 2022/09/13() 11:54:06.563 ID:chk6pokn0\r\n7: 5VIP 2022/09/13() 11:54:56.828 ID:+sWeXNwV0\r\n13: 5VI… [+2870 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Thebigmamablog.com"
+    },
+    "author": "Big Mama",
+    "title": "Big Boo Cast: Episode 303",
+    "description": "The football sun didn’t shine on A&M this past weekend, so in this episode we spend some time processing and working through the Aggies’ loss to Appalachian State. We also talk about a few other upsets from this past weekend and offer some Side Eyes and I See…",
+    "url": "https://thebigmamablog.com/28337/big-boo-cast-episode-303/",
+    "urlToImage": null,
+    "publishedAt": "2022-09-15T01:02:27Z",
+    "content": "The football sun didn’t shine on A&amp;M this past weekend, so in this episode we spend some time processing and working through the Aggies’ loss to Appalachian State. We also talk about a few other … [+1288 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNA"
+    },
+    "author": null,
+    "title": "Tips and tricks in the age of post-COVID revenge travel",
+    "description": "Travel is back, borders are open, and the beach is calling. But your next holiday could be less enjoyable than your last one. Flight prices,",
+    "url": "https://www.channelnewsasia.com/cna-lifestyle/travel-revenge-post-covid-flights-baggage-chaos-tips-hacks-2937781",
+    "urlToImage": "https://onecms-res.cloudinary.com/image/upload/s--wsGxycfP--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/a-computer-systems-failure-caused-chaos-for-thousands-of-holidaymakers-on-a-busy-holiday-weekend-though-british-airways-says-it-hopes-to-resume-most-flights-out-of-london-s-main-airports-sunday-1495971217807-2.jpg?itok=sxLRPlsI",
+    "publishedAt": "2022-09-15T00:57:00Z",
+    "content": "AIRFARE HACKS\r\nAirline miles are a great way to offset flight expenses, said Mr Wong, who prefers to fly business class on long-haul flights and uses his miles to upgrade his tickets.\r\nThe miles requ… [+5045 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Meh.com"
+    },
+    "author": null,
+    "title": "Kenwood WS-A1 Active Noise Canceling Smart True Wireless Earbuds $39",
+    "description": "<ul>\n<li>They can work with Alexa or Google</li>\n<li>They’ve got a good mic for making crystal clear calls</li>\n<li>They sound great, look great</li>\n<li>They’ve got noise-canceling technology</li>\n<li>Qi charging case for wireless charging</li>\n<li>They usua…",
+    "url": "https://meh.com/deals/kenwood-ws-a1-active-noise-cancelling-smart-true-wireless-earbuds-1",
+    "urlToImage": "http://d2b8wt72ktn9a2.cloudfront.net/mediocre/image/upload/c_pad,f_auto,h_600,q_auto,w_600/dnuvqpp1164xxhdevfd7.png",
+    "publishedAt": "2022-09-15T04:00:00Z",
+    "content": "Sometimes companies get ambitious. They choose a competitor thats maybe out of their league and try and battle them head-on, forgetting that most people buy stuff thats the same brand as something el… [+1935 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Insurance Journal"
+    },
+    "author": "admin",
+    "title": "Judge Allows Claim That NFL App Violates Privacy by Disclosing Personal Data to Google",
+    "description": "The National Football League has lost a bid to completely toss a class action that alleges it violates privacy laws by sharing the video watching habits of users of its mobile NFL App with Google for advertising and marketing purposes. …",
+    "url": "https://www.insurancejournal.com/news/east/2022/09/15/685004.htm",
+    "urlToImage": null,
+    "publishedAt": "2022-09-15T05:00:00Z",
+    "content": "The National Football League has lost a bid to completely toss a class action that alleges it violates privacy laws by sharing the video watching habits of users of its mobile NFL App with Google for… [+5679 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Joemonster.org"
+    },
+    "author": null,
+    "title": "Rząd chce przymusowo instalować aplikacje na naszych smartfonach - Co nowego w technologii?",
+    "description": "W dzisiejszym odcinku pośmiejemy się z nowych iPhone'ów, rząd nakaże nam zainstalować dwie aplikacje, a kibice Lewandowskiego będą bardzo mocno niezad…",
+    "url": "https://joemonster.org/art/65217",
+    "urlToImage": "https://img.joemonster.org/i/thumbs/artpic65217_1248215927-1200.jpg",
+    "publishedAt": "2022-09-15T03:12:02Z",
+    "content": "W dzisiejszym odcinku pomiejemy si z nowych iPhone'ów, rzd nakae nam zainstalowa dwie aplikacje, a kibice Lewandowskiego bd bardzo mocno niezadowoleni. \r\n#1. Rzd chce przymusowo instalowa aplikacje n… [+5709 chars]"
+    },
+    {
+    "source": {
+    "id": "le-monde",
+    "name": "Le Monde"
+    },
+    "author": "Arnaud Leparmentier",
+    "title": "Le dollar à plus de 1 euro : pourquoi le billet vert triomphe",
+    "description": "Dans un contexte d’incertitude économique et géopolitique, la monnaie américaine a dépassé l’euro pour la première fois depuis 2002. Une suprématie qui reflète les rapports de force à l’œuvre sur la planète.",
+    "url": "https://www.lemonde.fr/economie/article/2022/09/15/le-dollar-a-plus-de-1-euro-pourquoi-le-billet-vert-triomphe_6141660_3234.html",
+    "urlToImage": "https://img.lemde.fr/2022/09/14/1114/218/1481/987/1440/960/60/0/c219ec7_1663190560148-image0.jpeg",
+    "publishedAt": "2022-09-15T03:20:30Z",
+    "content": "COLCANOPA\r\nQuoi dautre ? Si le dollar américain ne cesse de confirmer son hégémonie, cest tout simplement quil ny a rien pour le remplacer. Quacheter à la place : de leuro, alors que le Vieux Contine… [+2957 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Idnes.cz"
+    },
+    "author": "https://www.facebook.com/iDNES.cz",
+    "title": "Letos Apple překvapil iPhonem Plus, příští rok má přijít iPhone Ultra",
+    "description": "Apple letos překopal portfolio iPhonů, z kterého zmizel model mini, a naopak se v něm objevil model Plus. Příští rok má dojít k další změně, ale ta už bude jen kosmetická. Nejvyšší model se má jmenovat Ultra.",
+    "url": "https://www.idnes.cz/mobil/telefony/apple-iphone-15-ultra-2023.A220913_162033_telefony_jm",
+    "urlToImage": "https://1gr.cz/tempimg/fb/2022/9/OMA95f5ee_584_iphone_14_plus_5up_hero_220907.jpg",
+    "publishedAt": "2022-09-15T04:03:00Z",
+    "content": "To, e Apple vyadí z nabídky nejmení a nejlevnjí model mini, se vdlo dlouho dopedu. Stejn jako to, e ho nahradí naopak zvtená verze základního modelu. Ale dlouho se poítalo s tím, e se bude jmenovat M… [+1458 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "U-note.me"
+    },
+    "author": "U-NOTE編集部",
+    "title": "CEOと社長の違いとは？定義や役割、向いている人の特徴などを紹介",
+    "description": "経営に関わってみたいと考える人は「CEO」や「社長」に興味がある人も多いのではないでしょうか。これらについて、名称だけが違うのか、ポジションが異なるのか明確に把握していない人もいるでしょう。\n\n本記事では、CEOと社長、代表取締役、COOなどの違いや、CEOの定義や役割を説明。また、CEOに向いている人の特徴やCEOになるためのキャリアパスを紹介するので、ぜひ参考にしてください。\n\n\n本記事の内容をざっくり説明\r\n\n\n\r\n\n<ul>\n<li>「CEO」と「社長」、「代表取締役」「COO」の違い</li>\n<li>…",
+    "url": "https://u-note.me/note/70855",
+    "urlToImage": "https://u-note.me/wp-content/images/uploads/2022/08/media_88114ce29dce94e21ac0c961044c1a3989740e40.png",
+    "publishedAt": "2022-09-15T01:00:00Z",
+    "content": "CEO\r\nCEOCOOCEOCEOCEO\r\nCEO\r\nCEO\r\nCEO\r\nCEO\r\nCEOChief Executive Officer\r\nCEOCEO\r\nCEO\r\nCEO\r\nAmazon.comCEO\r\nInvent &amp; Wander Collected Writings\r\nCEO\r\nCEO\r\nThe Law DictionaryCEO\r\nTop executive in a firm… [+816 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iPhone in Canada"
+    },
+    "author": "Gary Ng",
+    "title": "iOS 16.0.1 Download Released for iPhone 14, iPhone 14 Pro",
+    "description": "Ahead of this Friday’s launch, Apple has released iOS 16.0.1 for iPhone 14, iPhone 14 Plus (October), iPhone 14 Pro and iPhone 14 Pro Max. The iOS 16.0.1 release notes indicate it fixes issues with (via @AppleSWUpdates): with activation and migration during s…",
+    "url": "https://www.iphoneincanada.ca/news/ios-16-0-1-download-released-for-iphone-14-iphone-14-pro/",
+    "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2017/09/iic-logo-1.svg",
+    "publishedAt": "2022-09-15T00:40:44Z",
+    "content": "Ahead of this Fridays launch, Apple has released iOS 16.0.1 for iPhone 14, iPhone 14 Plus (October), iPhone 14 Pro and iPhone 14 Pro Max.\r\nThe iOS 16.0.1 release notes indicate it fixes issues with (… [+307 chars]"
+    }
+    ]
+    }
